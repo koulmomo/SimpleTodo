@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![simple todo gif walkthrough](https://cloud.githubusercontent.com/assets/983861/11353951/b9960c92-91fc-11e5-975e-d1372c71dc74.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
